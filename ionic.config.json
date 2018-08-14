@@ -1,0 +1,7 @@
+{
+  "name": "counter_apps",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
